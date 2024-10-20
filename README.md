@@ -1,3 +1,6 @@
+## DS 2002 Project
+# Names: Cindy Dong (ggm7qk) and Carlie Stewart (clstew47)
+
 # Reflection on the ETL Data Processor Project
 
 This project provided us with hands-on experience implementing and understanding key concepts in data science, including SQL, APIs, and flat files, specifically CSV and JSON. Our primary goal was to create a functional and efficient ETL pipeline that can process raw data, limited to JSON or CSV formats, and convert it into one of three output types: SQL, JSON, or CSV.
